@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TTT</string>
+    <string name="mobile_number">mobile</string>
+    <string name="login_button_text">btn_Login</string>
+    <string name="login_title">login</string>
+    <string name="signup_text">signup</string>
+    <string name="submit">Submit</string>
+</resources>
